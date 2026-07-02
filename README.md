@@ -1,5 +1,3 @@
-## resto-restaurant
-
 # 🍽️ Resto Restaurant Website
 
 A modern, responsive restaurant website built using **React**, **Vite**, **Express.js**, and **Node.js**. The application features an elegant landing page, menu showcase, chef section, customer testimonials, reservation section, and contact information with a smooth, responsive user experience.
