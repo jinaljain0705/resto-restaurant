@@ -1,5 +1,7 @@
-import express from "express";
-import path from "path";
+// @ts-ignore: express type definitions are not installed in this environment
+const express = require("express");
+// @ts-ignore: node type definitions are not installed in this environment
+const path = require("path");
 import { createServer as createViteServer } from "vite";
 import { MenuItem, Reservation, ContactMessage, Review, NewsPost } from "./src/types.js";
 
