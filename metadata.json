@@ -1,0 +1,6 @@
+{
+  "name": "Resto Restaurant",
+  "description": "An elegant, highly interactive restaurant landing page and reservation portal with a full menu explorer, deal of the week countdowns, and real-time Node.js table booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
